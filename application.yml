@@ -6,3 +6,4 @@
 configserver:
     name: Registry config server
     status: Connected to the Registry config server!
+    description: Description
