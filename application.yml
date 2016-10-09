@@ -1,0 +1,8 @@
+# ===================================================================
+# Config Server Spring Cloud Config.
+# ===================================================================
+
+# Property used on app startup to check the config server status
+configserver:
+    name: Registry config server
+    status: Connected to the Registry config server!
